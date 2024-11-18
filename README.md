@@ -3,4 +3,7 @@
 simple login page design on flutter
 
 ## preview
-<video src='https://drive.google.com/file/d/1awTHxKJv5Piv_JdTva4J8mlVLi6uwPQg/view?usp=sharing' width=180/>
+
+
+https://github.com/user-attachments/assets/f8450c0c-a208-4f17-80ab-84ea53514e62
+
